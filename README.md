@@ -12,8 +12,8 @@
 ```sh
 git clone https://github.com/LuckBM/Api-Hospital-M5.git
 ```
-<h2> Segundo:Abra dois terminais do Vs Code ou Node, instale as dependências: </h2>
-- Antes da instalação em cada terminal acesse a pasda usando "cd backend" e "cd frontend"
+<h2> Segundo: Abra dois terminais do Vs Code ou Node, instale as dependências: </h2>
+- Antes da instalação em cada terminal acesse a pasta usando "cd backend" e "cd frontend"
 
 ```sh
 npm i
@@ -29,10 +29,9 @@ npm run tabelaDatabase
 npm run bdon
 ```
 
-<h2> Quinto: Por fim em ambos os terminais use o comando: </h2>
+<h2> Quinto: Por fim, em ambos os terminais use o comando: </h2>
 
 ```sh
 npm run dev
 ```
-- Assim podera acessar a pagina em:http://localhost:5173/
-
+- Assim poderá acessar a página em: http://localhost:5173/
