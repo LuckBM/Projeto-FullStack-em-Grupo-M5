@@ -4,7 +4,7 @@ import "./Home.css";
 const Home = () => {
   return (
     <div>
-      <h1 className="title">Instrumentos de Música</h1>
+      <h1 className="title">Instrumentos Musicais</h1>
       <div className="instrument-cards">
         <div className="card">
           <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/940/125/products/gl101-b29d35814d3fecfb7316401407255228-1024-1024.jpeg" alt="Piano" className="card-image" />
