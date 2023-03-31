@@ -36,4 +36,6 @@ npm run dev
 ```
 - Assim poderá acessar a página em: http://localhost:5173/
 
-- Slide de Apresentação [aqui] (https://www.canva.com/design/DAFefPG0b-U/2f8uz5Au-laoRo2lo8msZg/view?utm_content=DAFefPG0b-U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Slide de apresentação: [aqui](https://www.canva.com/design/DAFefPG0b-U/2f8uz5Au-laoRo2lo8msZg/view?utm_content=DAFefPG0b-U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
